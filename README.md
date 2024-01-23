@@ -3,6 +3,13 @@
 <!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Здравствуйте!&fontColor=8bb9e3&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<!--Database-->
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>someday(...)</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        </div> 
+
 <!--연락처-->
 ## 🌈💖✨ Contact 📞💖✨
 <div style="display:flex; flex-direction:row;">
