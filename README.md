@@ -3,6 +3,18 @@
 <!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Здравствуйте!&fontColor=8bb9e3&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<!--연락처-->
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:wonw125@naver.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/zl.won">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
+
+
 <hr/>
 
 <hr/>
