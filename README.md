@@ -44,6 +44,20 @@ IDE
 
 [![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,eclipse)](https://skills.thijs.gg)
 
+---
+<div>
+	
+### Baekjoon Solved Rank 🏆
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonw512)](https://solved.ac/wonw512)
+
+### Latest Velog Post 📝
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zlwon)](https://velog.io/@zlwon/posts)
+
+### Github Stats 📊
+![bbbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1-won&show_icons=true&theme=radical)
+
+</div>
 
 <!--
 **z1-won/z1-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
