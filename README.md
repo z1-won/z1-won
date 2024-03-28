@@ -1,34 +1,55 @@
-## Hello 👋💛
-
 <!--헤더-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Здравствуйте!&fontColor=8bb9e3&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Welcome_I'm_zlwon!&fontColor=8bb9e3&fontSize=40&animation=fadeIn&fontAlignY=55)
 
 <!--Database-->
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    
-<!--스택-->
-## ✨Stacks✨
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,html,css,js,r)](https://skills.thijs.gg)
+<!--소개-->
+- 🌱 I’m currently ... Computer Science and Engineering of Dongguk University
+- 🔭 I’m currently working on 
+- 👯 I’m looking to collaborate on ...
 
-        
-    
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+
 <!--연락처-->
-## 🌈💖📞Contact 💖🌈
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:wonw125@naver.com">
-        <img src="https://img.shields.io/badge/Gmail-8bb9e3?style=for-the-badge&logo=Gmail&logoColor=blue"> 
+## Conect with me:
+
+ <a href="https://www.instagram.com/zl.won">
+        <img src="https://skills.thijs.gg/icons?i=instagram"> 
     </a>
     <a href="https://www.instagram.com/zl.won">
-        <img src="https://img.shields.io/badge/Instagram-8bb9e3?style=for-the-badge&logo=Instagram&logoColor=blue"> 
+        <img src="https://skills.thijs.gg/icons?i=gmail"> 
+    </a> 
+     <a href="https://www.instagram.com/zl.won">
+        <img src="https://skills.thijs.gg/icons?i=notion"> 
     </a>
+   
     
 </div><br>
 
+<!--스택-->
+## Stacks:
+classic
 
-<hr/>
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,python)](https://skills.thijs.gg)
 
-<hr/>
+web
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
+
+data
+
+[![My Skills](https://skills.thijs.gg/icons?i=r)](https://skills.thijs.gg)
+
+IDE
+
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,eclipse)](https://skills.thijs.gg)
 
 
 <!--
