@@ -5,13 +5,16 @@
 
 <!--Database-->
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>someday(...)</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        </div> 
+    
+<!--스택-->
+## ✨Stacks✨
 
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,html,css,js,r)](https://skills.thijs.gg)
+
+        
+    
 <!--연락처-->
-## 🌈💖✨ Contact 📞💖✨
+## 🌈💖📞Contact 💖🌈
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wonw125@naver.com">
         <img src="https://img.shields.io/badge/Gmail-8bb9e3?style=for-the-badge&logo=Gmail&logoColor=blue"> 
@@ -42,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
