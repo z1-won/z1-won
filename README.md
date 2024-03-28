@@ -6,16 +6,9 @@
 
 <!--소개-->
 - 🌱 I’m currently ... Computer Science and Engineering of Dongguk University
-- 🔭 I’m currently working on 
+- 🔭 Hi
 - 👯 I’m looking to collaborate on ...
-
 - 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 
 <!--연락처-->
 ## Conect with me:
