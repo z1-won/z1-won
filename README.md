@@ -6,9 +6,8 @@
 
 <!--소개-->
 - 🌱 I’m currently ... Computer Science and Engineering of Dongguk University
-- 🔭 Hi
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 🔭 I love Spaghetti...
+- 💬 Ask me about ANYTHING
 
 <!--연락처-->
 ## Conect with me:
