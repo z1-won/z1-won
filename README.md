@@ -49,10 +49,6 @@ IDE
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonw512)](https://solved.ac/wonw512)
 
-### Latest Velog Post 📝
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zlwon)](https://velog.io/@zlwon/posts)
-
 ### Github Stats 📊
 ![bbbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1-won&show_icons=true&theme=radical)
 
