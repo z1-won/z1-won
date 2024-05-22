@@ -13,7 +13,7 @@
 ## Conect with me:
 
  <a href="https://www.instagram.com/zl.won">
-        <img src="https://skills.thijs.gg/icons?i=instagram"> 
+        <img src="https://https://skillicons.dev/icons?i=instagram"> 
     </a>
     <a href="https://www.instagram.com/zl.won">
         <img src="https://skills.thijs.gg/icons?i=gmail"> 
