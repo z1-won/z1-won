@@ -22,6 +22,10 @@ web
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+app(react Native)
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 data
 
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
@@ -29,6 +33,11 @@ data
 IDE
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)](https://skillicons.dev)
+
+design
+
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ---
 <div>
