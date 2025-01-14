@@ -1,6 +1,7 @@
 <!--Database-->
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-### 빵's Journey: Layer by Layer 🛤
+
+ ### 빵's Journey: Layer by Layer 🛤
 - 🥐 동국대학교 AI융합대학 AI소프트웨어융합학부 컴퓨터공학전공 23학번
 - 🥖 언어화와 객체화에 자신있는 개발자
 
