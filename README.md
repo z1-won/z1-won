@@ -2,12 +2,21 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <!--소개-->
-### 안녕하세요, 방지원입니다 🌳
+
+### 저는 방지원입니다 🌳
 - 🌱 동국대학교 AI융합대학 AI소프트웨어융합학부 컴퓨터공학전공 23학번
 - 💬 언어화에 자신있는 개발자
 
+<br>
 
-</div><br>
+### 객체화 🔭
+> **『철학』** 사람의 인식이나 실천의 대상이 주체로부터 독립하여 객관적인 것으로 됨.<br>
+  **『전산』** 데이터가 각각 독립적으로 움직여 프로그램이나 시스템으로 구성됨.
+
+프로그래밍을 단순히 기술적 작업이 아닌, 철학적 사고와 시스템적 사고가 어우러지는 창작의 과정으로 바라봅니다.  
+저의 개발 여정은 이러한 객체화의 철학적·기술적 의미를 구현하는 과정입니다.
+
+---
 
 ### Experiences 📒
 
@@ -20,7 +29,6 @@
 - 동국대학교 스페셜티 커피 중앙동아리 '상록수 커피 클럽' 운영위원회 홍보부원 `2024.08.22 ~`
 - IT 연합동아리 YAPP 25기 PM `2024.11.16 ~ 2025.03.`
 
-<br><br>
 
 <!--스택-->
 ### Stacks ⚙️
@@ -29,16 +37,10 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)<br>
 
-<br>
-
-
 ---
-<br>
 
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonw512)](https://solved.ac/wonw512)
 
 ### Github Stats 📊
 ![bbbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1-won&show_icons=true&theme=radical)
-
-</div>
